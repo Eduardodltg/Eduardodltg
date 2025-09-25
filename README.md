@@ -15,16 +15,17 @@
 ---
 
 ## 📂 Proyectos destacados
-🔹 **COVID-19 Dashboard (Power BI)**  
+🔹 [COVID-19 Dashboard (Power BI)](https://github.com/Eduardodltg/COVID19-Dashboard)
 Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
 
-🔹 **Supervised learning (Python)**  
+
+🔹 [Supervised learning (Python)](https://github.com/Eduardodltg/Supervised-Learning-Python-)
 Predicción en dos casos:  
 - Identificación de pacientes con riesgo de ataque al corazón  
 - Reconocimiento de dígitos escritos a mano  
 Ambos desarrollados con modelos de aprendizaje supervisado.  
 
-🔹 **Unsupervised learning (Python)**
+🔹 [Unsupervised learning (Python)](https://github.com/Eduardodltg/Unsupervised-Learning-Python-)
 Caso de uso para segmentación de clientes:  
 - Estadística descriptiva  
 - Segmentación de clientes  
@@ -32,9 +33,11 @@ Caso de uso para segmentación de clientes:
 - Estimación del valor del cliente a través del tiempo
 Realizado con modelos de machine learning de aprendizaje no supervisado
 
-🔹 **Film Rental Database (SQL)**  
-Consultas avanzadas sobre una base de datos de renta de películas para obtener métricas de negocio.  
+🔹 [Film Rental Database (SQL)](https://github.com/Eduardodltg/Film-Rental-Database-SQL-)
+Consultas avanzadas sobre una base de datos de renta de películas para obtener métricas de negocio.
 
+🔹 [Proyecto Analisis de Apps (Python(SQL)](https://github.com/Eduardodltg/Proyecto-Analisis-de-Apps-Python-)
+Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion valiosa de ese mercado
 
 ---
 
