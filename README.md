@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí
-- Me gusta transformar datos en información útil para la toma de decisiones.  
+- Me gusta transformar datos en información útil para la toma de decisiones..  
 - He trabajado con **análisis exploratorio, modelado estadístico y dashboards interactivos**.  
 - Disfruto aprender y aplicar técnicas de **machine learning y visualización**.  
 - También me interesa mejorar la comunicación de resultados de forma clara y visual.  
