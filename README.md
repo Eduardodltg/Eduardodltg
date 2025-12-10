@@ -15,6 +15,10 @@
 ---
 
 ## 📂 Proyectos destacados
+🔹 [Proyecto Mas Vision (Python, Power BI)](https://github.com/Eduardodltg/Proyecto-Mas-Vision-)
+
+Proyecto completo de Ciencia de Datos. Predicciones de ventas para 2025 de cadena de opticas, uso de series de tiempo.
+
 🔹 [COVID-19 Dashboard (Power BI)](https://github.com/Eduardodltg/COVID19-Dashboard)
 
 Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
