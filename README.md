@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eduardo de la Torre  
 
-📊 **Cientifico de Datos**  
+📊 **Cientifico de Datos Jr/ Analista de Datos**  
 🐍 Apasionado por **Python, SQL y Power BI**  
 📈 Interesado en estadística, modelos de machine learning y visualización de datos  
 
@@ -55,7 +55,7 @@ Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes**: Python, SQL, DAX  
 - **Data Viz**: Power BI, Matplotlib, Seaborn  
-- **Librerías**: pandas, numpay, statsmodels, scikit-learn  
+- **Librerías**: pandas, numpy, statsmodels, scikit-learn  
 - **Otras**: Git, Jupyter Notebook  
 
 ---
