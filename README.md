@@ -15,11 +15,11 @@
 ---
 
 ## 📂 Proyectos destacados
-🔹 [Proyecto Mas Vision (Python, Power BI)](https://github.com/Eduardodltg/Proyecto-Mas-Vision-)
+🔹 [Forecasting-Ventas-Opticas-2025 (Python, Power BI)](https://github.com/Eduardodltg/Forecasting-Ventas-Opticas-2025-)
 
 Proyecto completo de Ciencia de Datos. Predicciones de ventas para 2025 de cadena de opticas, uso de series de tiempo.
 
-🔹 [Unsupervised learning (Python)](https://github.com/Eduardodltg/Unsupervised-Learning-Python-)
+🔹 [Segmentacion-Clientes-Churn-Clv (Python)](https://github.com/Eduardodltg/Segmentacion-Clientes-Churn-Clv-)
 
 Caso de uso para segmentación de clientes:  
 - Estadística descriptiva  
@@ -38,7 +38,7 @@ Ambos desarrollados con modelos de aprendizaje supervisado.
 
 Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
 
-🔹 [Film Rental Database (SQL)](https://github.com/Eduardodltg/Film-Rental-Database-SQL-)
+🔹 [Analisis-SQL-Negocio-Renta-Peliculas(SQL)](https://github.com/Eduardodltg/Analisis-SQL-Negocio-Renta-Peliculas-)
 
 Consultas avanzadas sobre una base de datos de renta de películas para obtener métricas de negocio.
 
