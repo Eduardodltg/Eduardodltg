@@ -19,7 +19,7 @@
 
 Proyecto completo de Ciencia de Datos. Predicciones de ventas para 2025 de cadena de opticas, uso de series de tiempo.
 
-🔹 [Segmentacion-Clientes-Churn-Clv (Python)](https://github.com/Eduardodltg/Segmentacion-Clientes-Churn-Clv-)
+🔹 [Segmentacion-Clientes-Churn-Clv (Python)](https://github.com/Eduardodltg/Segmentacion-Clientes-Churn-Clv))
 
 Caso de uso para segmentación de clientes:  
 - Estadística descriptiva  
