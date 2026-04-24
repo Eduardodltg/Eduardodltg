@@ -19,10 +19,13 @@
 
 Proyecto completo de Ciencia de Datos. Predicciones de ventas para 2025 de cadena de opticas, uso de series de tiempo.
 
-🔹 [COVID-19 Dashboard (Power BI)](https://github.com/Eduardodltg/COVID19-Dashboard)
+🔹 [Unsupervised learning (Python)](https://github.com/Eduardodltg/Unsupervised-Learning-Python-)
 
-Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
-
+Caso de uso para segmentación de clientes:  
+- Estadística descriptiva  
+- Segmentación de clientes  
+- Predicción de abandono  
+- Estimación del valor del cliente a través del tiempo
 
 🔹 [Supervised learning (Python)](https://github.com/Eduardodltg/Supervised-Learning-Python-)
 
@@ -31,16 +34,9 @@ Predicción en dos casos:
 - Reconocimiento de dígitos escritos a mano
   
 Ambos desarrollados con modelos de aprendizaje supervisado.  
+🔹 [COVID-19 Dashboard (Power BI)](https://github.com/Eduardodltg/COVID19-Dashboard)
 
-🔹 [Unsupervised learning (Python)](https://github.com/Eduardodltg/Unsupervised-Learning-Python-)
-
-Caso de uso para segmentación de clientes:  
-- Estadística descriptiva  
-- Segmentación de clientes  
-- Predicción de abandono  
-- Estimación del valor del cliente a través del tiempo
-  
-Realizado con modelos de machine learning de aprendizaje no supervisado
+Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
 
 🔹 [Film Rental Database (SQL)](https://github.com/Eduardodltg/Film-Rental-Database-SQL-)
 
