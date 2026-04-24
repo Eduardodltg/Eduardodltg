@@ -38,7 +38,7 @@ Ambos desarrollados con modelos de aprendizaje supervisado.
 
 Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
 
-🔹 [Analisis-SQL-Negocio-Renta-Peliculas(SQL)].(https://github.com/Eduardodltg/-Analisis-SQL-Negocio-Renta-Peliculas)
+🔹 [Analisis-SQL-Negocio-Renta-Peliculas(SQL)](https://github.com/Eduardodltg/-Analisis-SQL-Negocio-Renta-Peliculas)
 
 Consultas avanzadas sobre una base de datos de renta de películas para obtener métricas de negocio.
 
