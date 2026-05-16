@@ -57,8 +57,8 @@ Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion
 ---
 
 ## 📬 Conecta conmigo
-- 💼 [www.linkedin.com/in/eduardo-de-la-torre-cientifico-de-datos]  
-- 📧 [eduardodltg11@gmail.com]  
+- 💼 [LinkedIn](www.linkedin.com/in/eduardo-de-la-torre-cientifico-de-datos)
+- 📧 eduardodltg11@gmail.com
 
 ---
 ✨ Gracias por visitar mi perfil. ¡Explora mis proyectos y conectemos! 🚀
