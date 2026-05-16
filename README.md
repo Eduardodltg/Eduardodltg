@@ -68,6 +68,14 @@ Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion
 
 ---
 
+## 📊 GitHub Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardodltg&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodltg&layout=compact)
+
+---
+
 ## 📬 Conecta conmigo
 - 💼 [LinkedIn](www.linkedin.com/in/eduardo-de-la-torre-cientifico-de-datos)
 - 📧 eduardodltg11@gmail.com
