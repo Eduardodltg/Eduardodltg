@@ -70,9 +70,9 @@ Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion
 
 ## 📊 GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardodltg&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardodltg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodltg&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodltg&layout=compact)
 
 ---
 
