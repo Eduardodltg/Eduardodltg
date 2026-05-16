@@ -46,6 +46,7 @@ Predicción en dos casos:
 - Reconocimiento de dígitos escritos a mano
   
 Ambos desarrollados con modelos de aprendizaje supervisado.  
+
 🔹 [COVID-19 Dashboard (Power BI)](https://github.com/Eduardodltg/COVID19-Dashboard)
 
 Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas de tasa de mortalidad e índice de recuperación.  
