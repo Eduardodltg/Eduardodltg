@@ -39,7 +39,7 @@ Caso de uso para segmentación de clientes:
 - Predicción de abandono  
 - Estimación del valor del cliente a través del tiempo
 
-🔹 [Supervised learning (Python)](https://github.com/Eduardodltg/Supervised-Learning-Python-)
+🔹 [Prediccion-Riesgo-Infarto-ml (Python)](https://github.com/Eduardodltg/Supervised-Learning-Python-)
 
 Predicción en dos casos:  
 - Identificación de pacientes con riesgo de ataque al corazón  
