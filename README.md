@@ -31,7 +31,7 @@
 
 Proyecto completo de Ciencia de Datos. Predicciones de ventas para 2025 de cadena de opticas, uso de series de tiempo.
 
-🔹 [Segmentacion-Clientes-Churn-Clv (Python)](https://github.com/Eduardodltg/Segmentacion-Clientes-Churn-Clv))
+🔹 [Segmentacion-Clientes-Churn-Clv (Python)](https://github.com/Eduardodltg/Segmentacion-Clientes-Churn-Clv)
 
 Caso de uso para segmentación de clientes:  
 - Estadística descriptiva  
@@ -55,7 +55,7 @@ Análisis de casos confirmados, recuperados y fallecimientos. Incluye métricas 
 
 Consultas avanzadas sobre una base de datos de renta de películas para obtener métricas de negocio.
 
-🔹 [Proyecto Analisis de Apps (Python(SQL)](https://github.com/Eduardodltg/Proyecto-Analisis-de-Apps-Python-)
+🔹 [Proyecto Analisis de Apps (Python)](https://github.com/Eduardodltg/Proyecto-Analisis-de-Apps-Python-)
 
 Analisis de mas de diez mil aplicaciones de Google Play para obtener informacion valiosa de ese mercado
 
